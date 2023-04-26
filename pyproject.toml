@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "oneworldgazette"
+authors = [
+    {name = "Julian Henry", email = "julianhenry@naver.com"},
+]
+description = "The most effective world news aggregator Python has to offer"
+readme = "README.md"
+requires-python = ">=3.7"
+keywords = ["world", "news", "global", "newspaper"]
+license = {text = "Apache 2"}
+classifiers = [
+    "Framework :: Django",
+    "Programming Language :: Python :: 3",
+]
+dependencies = [
+    "requests",
+    'beautifulsoup4; python_version<"3.7"',
+]
