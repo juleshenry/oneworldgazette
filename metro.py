@@ -13,11 +13,23 @@ def find_mx():
     soup = BeautifulSoup(html, 'html.parser')
 
     # Find all HTML elements
-    elements = soup.select(':where([style*="font-size"], [style*="font-size:"])')
+    elements = soup.find_all()
 
     # elements = soup.select('[style*="font-size"]')
     for o in elements:
-        print(o ) #.css.select('font-size'))
+        if str(o.css.tag.name) in 'h1h2h3h4h5':
+            print(o.css.tag)
+            print(o.parent.attrs['href'])
+            1/0
+            for a,b in (vars(o.parent).items()):
+                print('@',a)
+                print(b)
+            1/0
+        # print(o.css.tag.attrs['style'])
+        # for a,b in vars(o.css.tag).items():
+        #     print('@',a)
+        #     print(str(b)[:40])
+        # 1/0
         # print(*dir(o),sep='\n');1/0
     1/0
     # Initialize a dictionary to store font sizes and associated elements
