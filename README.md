@@ -1,4 +1,6 @@
-# OneWorldGazette, aka 1DG, say `Won-Dub-Gee`
+# 1WG 
+# THE 1& ONLY "ONE WORLD GAZETTE"
+# pronunciation : IPA `/wʌn/ /dʌb/ /ˈd͡ʒiː/`
 
 Description:
 
@@ -9,36 +11,19 @@ Simple Functionality
 	- Translate to a given host origin language 
 	- Support 100+ languages
 
-User Onboarding
+Trends
+	- Aggregates Dashboard
+	- Most Searched
+		- Search Validation
+
+
+User Acquisition
 	- Registration
 	- Forgot Password
 	- Change Password
 	- Anti-Fraud Measures
 		- Mobile 2FA
-		- Recapcha
+		- Recaptcha
 	- User DBA
 	- User Cookies
 	- Preference DBA
-
-Business Analytics
-	- Aggregates Dashboard
-	- Most Searched
-	- Most Cross-Referenced Stories
-	- Categorical Tracking
-	- Click Tracking
-
-Employees:
-
-Welcome to HR-Bot
-	- Make job postings
-	- Get LLC W2 forms prepared
-	- Consider tax implications
-
-Benefits
-	- Healthcare
-	- Life Insurance
-	- Dentalcare
-	- Eyecare
-
-	
-
