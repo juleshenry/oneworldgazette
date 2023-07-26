@@ -1,4 +1,4 @@
-# OneWorldGazette, aka 1DG, say `Won-Dub-Jee`
+# OneWorldGazette, aka 1DG, say `Won-Dub-Gee`
 
 Description:
 
