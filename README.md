@@ -1,5 +1,5 @@
 # 1WG 
-# THE 1& ONLY "ONE WORLD GAZETTE"
+# THE 1&ONLY "ONE WORLD GAZETTE"
 # pronunciation : IPA `/wʌn/ /dʌb/ /ˈd͡ʒiː/`
 
 Description:
